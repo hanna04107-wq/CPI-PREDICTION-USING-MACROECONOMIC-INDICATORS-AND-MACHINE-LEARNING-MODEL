@@ -1,4 +1,4 @@
-# CPI PREDICTION USING-MACROECONOMIC INDICATORS AND MACHINE LEARNING MODEL
+# CPI PREDICTION USING MACROECONOMIC INDICATORS AND MACHINE LEARNING MODEL
 This repository hosts the data, scripts, and documentation for my Final Year Project. The project focuses on synthesizing macroeconomic determinants with machine learning architectures to forecast the Consumer Price Index (CPI) in Malaysia.
 
 Dataset & Variables
